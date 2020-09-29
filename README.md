@@ -23,6 +23,11 @@ The contents of this repository are 100% open source.
   * and makes a graph database using azure cosmos DB.
   * The output is a graph database in azure cosmos DB.
 
+* demo play
+<br>
+
+[![usage](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/blob/master/graph2.gif)](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/blob/master/graph2.gif)
+
 
 ## <a name="contributing">Contributing</a>
 
