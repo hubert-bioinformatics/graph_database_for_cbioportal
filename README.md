@@ -26,7 +26,7 @@ The contents of this repository are 100% open source.
 * demo play
 <br>
 
-[![usage](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/tree/master/graph2.gif)](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/tree/master/graph2.gif)
+[![usage](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/blob/master/README_images/graph2.gif)](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/blob/master/README_images/graph2.gif)
 
 
 ## <a name="contributing">Contributing</a>
