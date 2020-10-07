@@ -13,7 +13,14 @@ The contents of this repository are 100% open source.
 
 ## <a name="installation">Installation</a>
 ### Requirements
-* None
+
+* setting connection information
+  * Open the main script: "insert_cbioportal_data_into_graphDB.py"
+  * Edit azure ID, DB name, TABLE name, and KEY_VALUe in the 'connect_server' function.
+
+<br>
+
+[![usage](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/blob/master/README_images/azure.png)](https://github.com/hubert-bioinformatics/graph_database_for_cbioportal/blob/master/README_images/azure.png)
 
 
 ## <a name="usage">Usage</a>
